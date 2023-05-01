@@ -7,3 +7,4 @@
 - 'git init': initialize git repository (repo)
     - do not nest git repos
 - 'git status': tells
+- 'git log'
